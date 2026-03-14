@@ -3,7 +3,7 @@
 An interactive Shiny dashboard exploring crime trends across London boroughs from 2008–2016.
 
 ## Live App
-[View the deployed app here](https://connect.posit.cloud/ybaher/content/019ce9cb-ead0-c921-0686-9dc54e947aeb)
+[View the deployed app here](https://ybaher-individual-assignment-532.share.connect.posit.cloud)
 
 ## Setup & Installation
 
