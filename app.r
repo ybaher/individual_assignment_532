@@ -5,7 +5,7 @@ library(ggplot2)
 library(bslib)
 
 # asked claude for help with some of the implementations
-data <- read_parquet("data/processed copy/LondonCrimeData.parquet")
+data <- read_parquet("data/processed/LondonCrimeData.parquet")
 
 BOROUGHS <- sort(unique(data$borough))
 
